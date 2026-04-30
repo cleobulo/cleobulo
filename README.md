@@ -9,7 +9,7 @@
 ### 🏛️ Sobre mim
 Sou um desenvolvedor de software focado em backend e serviços. Busco equilibrar o conhecimento fundamental com as ferramentas mais modernas do desenvolvimento, sempre mantendo um toque clássico.
 
-- 🔭 Atualmente estou trabalhando em... (![shortener-url](https://github.com/cleobulo/shortener-url), ![scraping-fun](https://github.com/cleobulo/scraping-fun))
+- 🔭 Atualmente estou trabalhando em... ([shortener-url](https://github.com/cleobulo/shortener-url), [scraping-fun](https://github.com/cleobulo/scraping-fun))
 - 🌱 Estou aprendendo... (Java, Spring Boot, Python, FastAPI, Golang)
 - 💬 Pergunte-me sobre... (FastAPI, Python, Crawlers & Scrapers)
 - 🎧 Curiosidade: Provavelmente estou ouvindo The Beatles agora, ou, algum blues-rock britânico dos anos 1970.
@@ -25,6 +25,6 @@ Sou um desenvolvedor de software focado em backend e serviços. Busco equilibrar
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=cleobulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=cleobulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=cleobulo&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=cleobulo&layout=compact&langs_count=7&theme=dracula)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleobulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleobulo&layout=compact&langs_count=7&theme=dracula"/>
 </p>
