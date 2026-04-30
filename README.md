@@ -19,9 +19,9 @@ Sou um desenvolvedor de software focado em backend e serviços. Busco equilibrar
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://fastapi.tiangolo.com/img/icon-white.svg)
-![Spring Boot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdsbh7JBBLNltBu56Flgs5u32leeefm4wc8HOb1xQD9sGwHZss4hIvAZuTNL6DK34q92YWjwDJUSgYRKalmroKwIhF7TrmhiHLH42ZgI&s)
-![Golang](https://go.dev/images/go-logo-white.svg)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
