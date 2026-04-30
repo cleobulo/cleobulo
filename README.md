@@ -1,4 +1,4 @@
-# Olá, eu sou o Cleobulo! 👋
+# Olá, eu sou o Cleóbulo! 👋
 
 <!-- INÍCIO DO CABEÇALHO VISUAL -->
 <p align="center">
